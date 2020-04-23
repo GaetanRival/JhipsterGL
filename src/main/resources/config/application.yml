@@ -147,13 +147,13 @@ jhipster:
     from: coopcycle@localhost
   swagger:
     default-include-pattern: /api/.*
-    title: coopcycle API
+    title: coopcycle Gaëtan 
     description: coopcycle API documentation
-    version: 0.0.1
+    version: 1.0.0
     terms-of-service-url:
-    contact-name:
+    contact-name: Gaëtan Rival
     contact-url:
-    contact-email:
+    contact-email: gaetan.rival1@etu.univ-grenoble-alpes.fr
     license:
     license-url:
 # ===================================================================
