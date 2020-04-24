@@ -81,6 +81,7 @@ com/mycompany/myapp/domain/enumeration/BasketState.class
 com/mycompany/myapp/web/rest/PaymentResource.class
 com/mycompany/myapp/service/EmailAlreadyUsedException.class
 com/mycompany/myapp/web/rest/OrderResource.class
+com/mycompany/myapp/aop/logging/MailLoggingAspect.class
 com/mycompany/myapp/config/AsyncConfiguration.class
 com/mycompany/myapp/domain/enumeration/Disponibility.class
 com/mycompany/myapp/web/rest/ClientForwardController.class
